@@ -163,5 +163,5 @@ def main():
     merger = DataMerger(files)
     merger.merge_data()
 
-'''if __name__ == '__main__':
-    main()'''
+if __name__ == '__main__':
+    main()
